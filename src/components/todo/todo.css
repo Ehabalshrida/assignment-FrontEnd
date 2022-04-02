@@ -1,0 +1,12 @@
+.div-flex{
+    width:1000px ;
+    margin:20px auto;
+    display: flex;
+    align-items:center
+    
+    
+}
+.toDo{
+    margin-right: 80px;
+
+}
